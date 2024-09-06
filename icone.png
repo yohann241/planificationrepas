@@ -1,0 +1,3 @@
+# Créer une image de 512x512 pixels avec un fond turquoise
+icon_large = Image.new('RGB', (512, 512), '#20B2AA')
+icon_large.save('icon-large.png')
